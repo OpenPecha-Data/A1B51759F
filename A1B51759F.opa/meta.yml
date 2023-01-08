@@ -1,0 +1,22 @@
+id: A1B51759F
+title: Aspiration Prayer
+type: translation
+pechas:
+- ICF4BDF58
+- I0AA2418A
+- I60006AEB
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:49:10.909739
+  last_modified_at: 2023-01-04 12:49:10.909766
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ICF4BDF58/8441: 5F05
+  I0AA2418A/BA99: 5F05
+  I60006AEB/DCAE: 5F05
